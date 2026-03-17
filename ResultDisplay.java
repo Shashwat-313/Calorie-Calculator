@@ -1,3 +1,4 @@
+
 // Responsible for displaying the calculation results
 
 public class ResultDisplay {
