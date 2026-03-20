@@ -1,5 +1,4 @@
 // Data Transfer Object to hold user's information
-
 public class UserData {
     private String gender;
     private int age;
