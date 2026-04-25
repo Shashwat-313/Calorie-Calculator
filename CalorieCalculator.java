@@ -1,7 +1,7 @@
 // Handles the business logic for calorie calculations
 
 public class CalorieCalculator {
-    
+
     // Constants for BMR formula coefficients and activity multipliers
     private static final double MALE_BMR_CONSTANT = 88.362;
     private static final double FEMALE_BMR_CONSTANT = 447.593;
